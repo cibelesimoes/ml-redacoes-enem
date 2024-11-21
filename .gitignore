@@ -91,7 +91,3 @@ notebooks/modelo_finetuned_enem
 notebooks/modelo_finetuned_enem_v2
 notebooks/modelo_finetuned_enem_v3
 notebooks/results_enem
-
-notebooks/modelo_finetuned_enem_v2.zip
-
-*.zip
